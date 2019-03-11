@@ -1,6 +1,7 @@
 import os
 import tensorflow as tf
-
+import sys
+sys.path.append('..')
 from config import *
 from utils import *
 
